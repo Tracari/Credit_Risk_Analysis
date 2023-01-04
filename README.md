@@ -2,10 +2,12 @@
 
 ## Overview
 
-A Peer-to-peer lending company wants to use machinge learning to predict credit risk, for quicker and more reliable loan experiences. In an effort to be able to assist the lead data scientist, this project will be an introduction to Resampling using different techniques from the imbalanced-learn and scikit-learn libraries to build and evaluate learning models on: 
+A Peer-to-peer lending company wants to use Machine Learning to predict credit risk, for quicker and more reliable loan experiences. This project will use Resampling, employing different techniques from the imbalanced-learn and scikit-learn libraries to build and evaluate learning models on: 
 - Balanced Accuracy: How often the classifier is correct
 - Precision: How reliable a positive/negative classifier is.
 - Recall/Sensitivity: The ability of a clssifier to find all the positive/negative samples
+
+To determine the best suited model that accurately predicts and classifies risky credit applications.
 
 
 ### Data enivorment
